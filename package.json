@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "@lynx-js/react": "^0.105.0",
-    "intlayer": "5.2.8",
-    "lynx-intlayer": "5.2.8",
-    "react-intlayer": "5.2.8"
+    "intlayer": "latest",
+    "lynx-intlayer": "latest",
+    "react-intlayer": "latest"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
