@@ -13,9 +13,9 @@
     "@formatjs/intl-displaynames": "^6.8.11",
     "@formatjs/intl-locale": "^4.2.11",
     "@lynx-js/react": "^0.113.0",
-    "intlayer": "8.0.0-canary.5",
+    "intlayer": "latest",
     "lynx-intlayer": "latest",
-    "react-intlayer": "8.0.0-canary.5"
+    "react-intlayer": "latest"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.2.4",
