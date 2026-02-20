@@ -13,8 +13,8 @@
     "@formatjs/intl-displaynames": "^6.8.11",
     "@formatjs/intl-locale": "^4.2.11",
     "@lynx-js/react": "^0.113.0",
-    "intlayer": "latest",
-    "lynx-intlayer": "latest",
+    "intlayer": "canary",
+    "lynx-intlayer": "canary",
     "react-intlayer": "latest"
   },
   "devDependencies": {
