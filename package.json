@@ -10,21 +10,21 @@
     "preview": "rspeedy preview"
   },
   "dependencies": {
-    "@formatjs/intl-displaynames": "^6.8.13",
-    "@formatjs/intl-locale": "^4.2.13",
-    "@lynx-js/react": "^0.113.0",
+    "@formatjs/intl-displaynames": "^7.3.10",
+    "@formatjs/intl-locale": "^5.3.9",
+    "@lynx-js/react": "^0.122.0",
     "intlayer": "9.0.0-canary.12",
     "lynx-intlayer": "9.0.0-canary.12",
     "react-intlayer": "9.0.0-canary.12"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.5.2",
-    "@lynx-js/qrcode-rsbuild-plugin": "^0.4.7",
-    "@lynx-js/react-rsbuild-plugin": "^0.10.14",
-    "@lynx-js/rspeedy": "^0.11.9",
-    "@lynx-js/types": "^3.9.0",
+    "@lynx-js/qrcode-rsbuild-plugin": "^0.5.0",
+    "@lynx-js/react-rsbuild-plugin": "^0.17.1",
+    "@lynx-js/rspeedy": "^0.15.1",
+    "@lynx-js/types": "^4.0.0",
     "@types/react": "^19.2.17",
-    "typescript": "~5.9.3"
+    "typescript": "~6.0.3"
   },
   "engines": {
     "node": ">=18"
